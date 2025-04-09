@@ -1,0 +1,12 @@
+/Volumes/Extreme SSD/Coding/CSIS/Learning/CustomMapper/bin/Release/net8.0/CustomMapper.deps.json
+/Volumes/Extreme SSD/Coding/CSIS/Learning/CustomMapper/bin/Release/net8.0/CustomMapper.dll
+/Volumes/Extreme SSD/Coding/CSIS/Learning/CustomMapper/bin/Release/net8.0/CustomMapper.pdb
+/Volumes/Extreme SSD/Coding/CSIS/Learning/CustomMapper/obj/Release/net8.0/CustomMapper.csproj.AssemblyReference.cache
+/Volumes/Extreme SSD/Coding/CSIS/Learning/CustomMapper/obj/Release/net8.0/CustomMapper.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Extreme SSD/Coding/CSIS/Learning/CustomMapper/obj/Release/net8.0/CustomMapper.AssemblyInfoInputs.cache
+/Volumes/Extreme SSD/Coding/CSIS/Learning/CustomMapper/obj/Release/net8.0/CustomMapper.AssemblyInfo.cs
+/Volumes/Extreme SSD/Coding/CSIS/Learning/CustomMapper/obj/Release/net8.0/CustomMapper.csproj.CoreCompileInputs.cache
+/Volumes/Extreme SSD/Coding/CSIS/Learning/CustomMapper/obj/Release/net8.0/CustomMapper.dll
+/Volumes/Extreme SSD/Coding/CSIS/Learning/CustomMapper/obj/Release/net8.0/refint/CustomMapper.dll
+/Volumes/Extreme SSD/Coding/CSIS/Learning/CustomMapper/obj/Release/net8.0/CustomMapper.pdb
+/Volumes/Extreme SSD/Coding/CSIS/Learning/CustomMapper/obj/Release/net8.0/ref/CustomMapper.dll
